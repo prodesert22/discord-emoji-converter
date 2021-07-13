@@ -4,7 +4,7 @@ Converte seu texto para emoji 0️⃣
 ## Funcionamento
 Escreva uma frase ou uma palavra, logo depois do **Frase:**
 
-![Escreva uma frase.](https://im6.ezgif.com/tmp/ezgif-6-c36390af007f.gif "Escreva uma frase.")
+![Escreva uma frase.](https://i.imgur.com/unbgSQQ.gif "Escreva uma frase.")
 
 Agora basta colar o texto com **ctrl + v**
 ## Instalação de direto da source
